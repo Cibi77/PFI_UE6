@@ -1,0 +1,11 @@
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\UE_6_While_Schleifen\bin\Debug\UE_6_While_Schleifen.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\UE_6_While_Schleifen\bin\Debug\UE_6_While_Schleifen.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\UE_6_While_Schleifen\bin\Debug\UE_6_While_Schleifen.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\UE_6_While_Schleifen\obj\Debug\UE_6_Demo_While_Schleifen_Schule.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\UE_6_While_Schleifen\obj\Debug\UE_6_Demo_While_Schleifen_Schule.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\UE_6_While_Schleifen\obj\Debug\UE_6_While_Schleifen.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\UE_6_While_Schleifen\obj\Debug\UE_6_While_Schleifen.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\UE_6_While_Schleifen\obj\Debug\UE_6_Demo_While_Schleifen_Schule.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\UE_6_While_Schleifen\obj\Debug\UE_6_Demo_While_Schleifen_Schule.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\UE_6_While_Schleifen\obj\Debug\UE_6_While_Schleifen.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\UE_6_While_Schleifen\obj\Debug\UE_6_While_Schleifen.pdb
