@@ -1,0 +1,11 @@
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\Aufgabe_A6_2_3_ggT\bin\Debug\Aufgabe_A6_2_3_ggT.exe.config
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\Aufgabe_A6_2_3_ggT\bin\Debug\Aufgabe_A6_2_3_ggT.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\Aufgabe_A6_2_3_ggT\bin\Debug\Aufgabe_A6_2_3_ggT.pdb
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\Aufgabe_A6_2_3_ggT\obj\Debug\Aufgabe_A6_2_3_ggT.csproj.AssemblyReference.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\Aufgabe_A6_2_3_ggT\obj\Debug\Aufgabe_A6_2_3_ggT.csproj.SuggestedBindingRedirects.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\Aufgabe_A6_2_3_ggT\obj\Debug\Aufgabe_A6_2_3_ggT.Form1.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\Aufgabe_A6_2_3_ggT\obj\Debug\Aufgabe_A6_2_3_ggT.Properties.Resources.resources
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\Aufgabe_A6_2_3_ggT\obj\Debug\Aufgabe_A6_2_3_ggT.csproj.GenerateResource.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\Aufgabe_A6_2_3_ggT\obj\Debug\Aufgabe_A6_2_3_ggT.csproj.CoreCompileInputs.cache
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\Aufgabe_A6_2_3_ggT\obj\Debug\Aufgabe_A6_2_3_ggT.exe
+C:\Users\vinze\OneDrive\Dokumente\ZbW\Repos\Unterrichtseinheit_6\Aufgabe_A6_2_3_ggT\obj\Debug\Aufgabe_A6_2_3_ggT.pdb
